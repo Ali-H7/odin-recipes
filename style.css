@@ -1,0 +1,29 @@
+div {font-family: Arial, Helvetica, sans-serif;}
+
+h1 {color: teal; 
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    background-color: wheat;
+    border-style: solid;}
+
+li {text-align: left;}
+
+.hummus-photo {height: auto;
+    width: 500px;
+    border:solid 1px teal;}
+
+img {height: auto;
+    width: 500px;
+    border:solid 2px teal;}
+
+.title {color: teal; 
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    background-color: wheat;
+    border-style: solid;}
+
+
+
+
